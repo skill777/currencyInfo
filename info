@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Unistream",
+      "content": [
+        {
+          "currency": "USD",
+          "rate": "63.134"
+        },
+        {
+          "currency": "EUR",
+          "rate": "65.342"
+        }
+      ]
+    },
+    {
+      "name": "Золотая Корона",
+      "content": [
+        {
+          "currency": "USDT",
+          "rate": "65.03"
+        },
+        {
+          "currency": "EUR",
+          "rate": "70.13"
+        },
+        {
+          "currency": "MDL",
+          "rate": "3.34"
+        }
+      ]
+    }
+  ]
